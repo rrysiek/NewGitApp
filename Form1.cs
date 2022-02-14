@@ -16,10 +16,5 @@ namespace NewGitApp
         {
             InitializeComponent();
         }
-
-        private void Button1_ck(object sender, EventArgs e)
-        {
-            //sdsfgsdfgs
-        }
     }
 }
